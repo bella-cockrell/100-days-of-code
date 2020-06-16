@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Monday June 15 2020
+### Day 1: Monday June 15 2020
 
 **Today's Progress**: Began the Javascript Algorithms and Data Structures Certification on [FreeCodeCamp](https://www.freecodecamp.org/learn) to brush up on my knowledge of Javascript. 78/101 lessons done on the first section in a couple of hours.
 
@@ -9,3 +9,14 @@ I thought it would be a good place to start here, because it was easy enough to 
 
 **Link to work:**
 [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+### Day 2: Tuesday June 16 2020
+
+**Today's Progress**: Continued to work on FCC's Javascript certification and watched a video on Jest and Enzyme testing in React.
+
+**Thoughts:** I got quite stuck on manipulating JSON data with dot/bracket notation and conditions. Hopefully I'll get it right after a night's sleep. I think I would like to create a simple app that counts cards.
+
+
+**Link to work:**
+[This is the question I got stuck on](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
+
