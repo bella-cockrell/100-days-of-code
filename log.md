@@ -12,7 +12,7 @@ I thought it would be a good place to start here, because it was easy enough to 
 
 ### Day 2: Tuesday June 16 2020
 
-**Today's Progress**: Continued to work on FCC's Javascript certification and watched a video on Jest and Enzyme testing in React.
+**Today's Progress**: Continued to work on FCC's Javascript certification and watched a video on Jest and Enzyme testing in React. I also did some pair programming with a friend to fix a React component that was not updating when new data from an API was received. Turned out to be a bigger problem to fix than first thought.
 
 **Thoughts:** I got quite stuck on manipulating JSON data with dot/bracket notation and conditions. Hopefully I'll get it right after a night's sleep. I think I would like to create a simple app that counts cards.
 
