@@ -20,3 +20,13 @@ I thought it would be a good place to start here, because it was easy enough to 
 **Link to work:**
 [This is the question I got stuck on](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
 
+### Day 3: Wednesday June 17 2020
+
+**Today's Progress**: Continued to work on FCC's Javascript certification.
+
+**Thoughts:** I feel bad that I had to look up what to do in the end for a question I was stuck on but I guess that's the equivalent of looking on StackOverflow. I felt worse when I didn't fully understand the answer either.
+
+
+**Link to work:**
+
+
