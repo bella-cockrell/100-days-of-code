@@ -22,11 +22,12 @@ I thought it would be a good place to start here, because it was easy enough to 
 
 ### Day 3: Wednesday June 17 2020
 
-**Today's Progress**: Continued to work on FCC's Javascript certification.
+**Today's Progress**: Continued to work on FCC's Javascript certification. Learnt about For, While, Do While and Recursion loops.
 
-**Thoughts:** I feel bad that I had to look up what to do in the end for a question I was stuck on but I guess that's the equivalent of looking on StackOverflow. I felt worse when I didn't fully understand the answer either.
+**Thoughts:** I feel bad that I had to look up what to do in the end for a question I was stuck on but I guess that's the equivalent of looking on StackOverflow. I felt worse when I didn't fully understand the answer either. However, later in the day, I was working with the same issue in another context and understood dot/bracket notation better alongside for/while loops.
 
 
 **Link to work:**
+[The last question I was working on](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
 
 
